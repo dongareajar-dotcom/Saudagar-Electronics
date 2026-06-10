@@ -38,8 +38,7 @@ How automatic deployment saves time
 How real DevOps systems work in companies
 🌐 Live Project
 
-👉 Add your website link here
-Example:
+👉 my website link here
 http://institute-cicd-site.s3-website.ap-south-1.amazonaws.com/#home
 
 👨‍💻 Author
